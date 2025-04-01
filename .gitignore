@@ -1,0 +1,6 @@
+venv/
+vo/
+sent_entries.json
+sent_posts.json
+*.pyc
+__pycache__/
